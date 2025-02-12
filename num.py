@@ -1,6 +1,6 @@
 # Program to check if a number is even or odd
 //Prerana
-//kumbhar
+//kumbhar pp
 # Take input from the user
 num = int(input("Enter a number: "))
 
